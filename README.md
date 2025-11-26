@@ -58,7 +58,7 @@ Flask: Web framework for API
 
 Installation and Setup:
 
-Clone the repository: git clone https://github.com/janetchristina/Secure-Messaging-Prototype.git
+Clone the repository: git clone https://github.com/janetchristina/ITIS6200-Course-Project.git
 
 Flask: pip install Flask
 
